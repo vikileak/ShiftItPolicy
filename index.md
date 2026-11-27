@@ -1,6 +1,6 @@
 # ShiftIt – Privacy Policy
 
-*Effective from ShiftIt 1.9 (December 2026).*
+*Effective from ShiftIt 1.9 (December 2026).* A German version follows below the English one once published.
 
 ShiftIt is a shift planner by Viktor Leongard. This page explains what data the app uses, where it goes and the choices you have. The short version: **your shifts, notes and settings stay on your phone.** ShiftIt has no account and no server of its own.
 
@@ -19,7 +19,9 @@ The free version of ShiftIt shows a few ads: at most one full-screen ad after yo
 Ads are delivered by **Unity LevelPlay** (Unity Technologies / ironSource). To show and measure ads, LevelPlay and the ad networks it works with may process information such as your IP address, device and operating-system type and version, language, app version, a device identifier, and how you interact with an ad (impressions, clicks), as well as crash and performance data of the ad software. ShiftIt never shares your shifts, notes or backups with them.
 
 - **No tracking across apps:** ShiftIt does not ask for permission to track you (App Tracking Transparency) and does not read the Apple advertising identifier (IDFA). On Android, ShiftIt does not use the Google advertising ID.
-- **Your choice in Europe:** in the European Economic Area, the United Kingdom and Switzerland, ShiftIt asks before the first ad whether ads may be **personalised** or **non-personalised**. Personalised ads are based on your consent; you can change your choice at any time in the app: **menu → Privacy options**. Non-personalised ads only use the context, such as the language.
+- **Your choice in Europe:** in the European Economic Area, the United Kingdom and Switzerland, ShiftIt asks before the first ad whether ads may be **personalised** or **non-personalised**. Personalised ads are based on your consent; you can change your choice at any time in the app: **menu → Privacy options**. Non-personalised ads are chosen from the context (such as the language and the app) instead of your interests; LevelPlay still processes the technical data above to deliver, measure and protect them against fraud.
+- **Elsewhere:** outside these regions, ads may be personalised. Unity LevelPlay acts as an independent controller for the data it processes; its policies explain how to object or ask for deletion.
+- **Report an ad:** if an ad is inappropriate, report it in the app (**menu → Report an ad**); the details of the last ad (ad network and ad ID) are attached so it can be blocked.
 - Unity privacy policy: https://unity.com/legal/privacy-policy
 - Unity / ironSource privacy information for app users: https://unity.com/legal/game-player-and-app-user-privacy-policy
 
@@ -33,7 +35,7 @@ To show holidays, the app downloads public holidays from **Nager.Date** (https:/
 
 ## Feedback
 
-If you send feedback from the menu, the text you write is sent together with technical details so the problem can be reproduced: app version, language, device manufacturer and model, operating-system version and build, and on iPhone the device name set in the phone's settings. It is stored as an issue in the developer's private GitHub repository (GitHub, Inc.), which only the developer can read. Please don't include personal information you don't want to share. Feedback is only sent when you press send.
+If you send feedback from the menu, the text you write is sent together with technical details so the problem can be reproduced: app version, language, device manufacturer and model, operating-system version and build, and on iPhone the device name set in the phone's settings. It is stored as an issue in a private GitHub repository of the developer (GitHub, Inc.). The app keeps the numbers of the issues you sent on your phone, so it can show the developer's replies, and you can answer in the app. Please don't include personal information you don't want to share. Feedback is only sent when you press send; issues are deleted on request and otherwise within 24 months after they are closed.
 
 ## Tips for other apps
 
@@ -46,6 +48,14 @@ Shift reminders and wake-up alarms are scheduled on your phone by the operating 
 ## Children
 
 ShiftIt is not directed at children under 13, and the developer does not knowingly collect personal information from children.
+
+## Legal bases and transfers
+
+- Ads: personalised ads with your consent (Art. 6(1)(a) GDPR, in the EEA, the UK and Switzerland); non-personalised ads and the technical data needed to deliver them on the basis of the developer's legitimate interest in funding a free app (Art. 6(1)(f) GDPR).
+- Feedback: to answer your request (Art. 6(1)(b) GDPR).
+- Holidays: to provide the holiday feature you turned on (Art. 6(1)(b) GDPR).
+
+Unity and GitHub may process data in the United States. Transfers rely on the EU–US Data Privacy Framework or the EU standard contractual clauses used by these providers. Every third party named here is bound to protect data at least as well as described in this policy.
 
 ## Your rights
 
