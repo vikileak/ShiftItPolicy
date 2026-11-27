@@ -1,6 +1,6 @@
 # ShiftIt – Privacy Policy
 
-*Effective from ShiftIt 1.9 (December 2026).* A German version follows below the English one once published.
+*Effective from ShiftIt 1.9 (December 2026).*
 
 ShiftIt is a shift planner by Viktor Leongard. This page explains what data the app uses, where it goes and the choices you have. The short version: **your shifts, notes and settings stay on your phone.** ShiftIt has no account and no server of its own.
 
