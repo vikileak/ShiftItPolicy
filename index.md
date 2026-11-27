@@ -1,55 +1,60 @@
-Viktor Leongard built the ShiftIt app as a Free app. This SERVICE is provided by Viktor Leongard at no cost and is intended for use as is.
+# ShiftIt – Privacy Policy
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+*Effective from ShiftIt 1.9 (December 2026).*
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+ShiftIt is a shift planner by Viktor Leongard. This page explains what data the app uses, where it goes and the choices you have. The short version: **your shifts, notes and settings stay on your phone.** ShiftIt has no account and no server of its own.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Shift Calendar unless otherwise defined in this Privacy Policy.
+## Data that stays on your phone
 
-Information Collection and Use
+Your shift rhythm, the shifts and notes you enter, shift times and alarms, colours, holiday choices, reminders and app settings are stored only on your device. ShiftIt does not upload them anywhere.
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to launch count, shift count, use times. The information that I request will be retained on your device and is not collected by me in any way.
+- **Backup & restore:** a backup is a file the app creates on your phone. You decide where to save or share it (for example Files, iCloud Drive, Google Drive or email). ShiftIt never sends it anywhere on its own.
+- **"Your month" and the payroll report:** the monthly summary and the PDF/CSV report (ShiftIt Premium) are created on your phone from your own shifts. They leave the phone only when you share them yourself.
+- **Home-screen widget:** the widget reads the next weeks of shifts from the app's local storage on the same phone.
 
-The app does use third party services that may collect information used to identify you.
+## Ads (free version)
 
-Link to privacy policy of third party service providers used by the app
+The free version of ShiftIt shows a few ads: at most one full-screen ad after you finish a task, and a short video ad only when you choose "Watch a short ad" for 24 hours without ads. ShiftIt Premium has no ads.
 
-AdMob
+Ads are delivered by **Unity LevelPlay** (Unity Technologies / ironSource). To show and measure ads, LevelPlay and the ad networks it works with may process information such as your IP address, device and operating-system type and version, language, app version, a device identifier, and how you interact with an ad (impressions, clicks), as well as crash and performance data of the ad software. ShiftIt never shares your shifts, notes or backups with them.
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+- **No tracking across apps:** ShiftIt does not ask for permission to track you (App Tracking Transparency) and does not read the Apple advertising identifier (IDFA). On Android, ShiftIt does not use the Google advertising ID.
+- **Your choice in Europe:** in the European Economic Area, the United Kingdom and Switzerland, ShiftIt asks before the first ad whether ads may be **personalised** or **non-personalised**. Personalised ads are based on your consent; you can change your choice at any time in the app: **menu → Privacy options**. Non-personalised ads only use the context, such as the language.
+- Unity privacy policy: https://unity.com/legal/privacy-policy
+- Unity / ironSource privacy information for app users: https://unity.com/legal/game-player-and-app-user-privacy-policy
 
-Cookies
+## In-app purchases
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+ShiftIt Premium is a one-time purchase (no subscription). Payment is handled entirely by Apple (App Store) or Google (Google Play) under their privacy policies. ShiftIt only stores on your phone whether Premium is unlocked, and asks the store to confirm it ("Restore purchases"). Earlier "Remove ads" purchases count as Premium.
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+## Public and school holidays
 
-Service Providers
+To show holidays, the app downloads public holidays from **Nager.Date** (https://date.nager.at) and school holidays from **OpenHolidays** (https://www.openholidaysapi.org) for the country, region and years you choose. Like any website, these services receive your IP address with the request. No personal data from ShiftIt is sent to them.
 
-I may employ third-party companies and individuals due to the following reasons:
+## Feedback
 
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+If you send feedback from the menu, the text you write is sent together with technical details (app version, language, device model, operating-system version) so the problem can be reproduced. It is stored as an issue in the developer's GitHub repository (GitHub, Inc.). Please don't include personal information you don't want to share. Feedback is only sent when you press send.
 
-Security
+## Tips for other apps
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+Once in a while ShiftIt may suggest another app by the same developer (ProShift, Voya). If you tap "Show me", the App Store or Google Play opens with a campaign label so the developer can see how many people came from ShiftIt; no data about you is added. You can turn these tips off in the menu.
 
-Links to Other Sites
+## Notifications and alarms
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Shift reminders and wake-up alarms are scheduled on your phone by the operating system. They are not sent through any server.
 
-Children’s Privacy
+## Children
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+ShiftIt is not directed at children under 13, and the developer does not knowingly collect personal information from children.
 
-Changes to This Privacy Policy
+## Your rights
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+Because ShiftIt keeps your data on your phone, you can delete it at any time by deleting the app or its data. For data processed by Unity LevelPlay, Apple, Google or GitHub, their privacy policies describe your rights. Under the GDPR you have the right to access, correction, deletion, restriction and objection, and the right to complain to a data-protection authority. Contact the developer for any request.
 
-Contact Me
+## Changes
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at vleongard@icloud.com
+This policy may change when the app changes. The current version is always on this page.
+
+## Contact
+
+Viktor Leongard – vleongard@icloud.com
