@@ -33,7 +33,7 @@ To show holidays, the app downloads public holidays from **Nager.Date** (https:/
 
 ## Feedback
 
-If you send feedback from the menu, the text you write is sent together with technical details (app version, language, device model, operating-system version) so the problem can be reproduced. It is stored as an issue in the developer's GitHub repository (GitHub, Inc.). Please don't include personal information you don't want to share. Feedback is only sent when you press send.
+If you send feedback from the menu, the text you write is sent together with technical details so the problem can be reproduced: app version, language, device manufacturer and model, operating-system version and build, and on iPhone the device name set in the phone's settings. It is stored as an issue in the developer's GitHub repository (GitHub, Inc.). Please don't include personal information you don't want to share. Feedback is only sent when you press send.
 
 ## Tips for other apps
 
